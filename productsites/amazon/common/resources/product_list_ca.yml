@@ -1,0 +1,14 @@
+url:
+    css: null
+    xpath: '//div//a[contains(concat(" ",normalize-space(@class)," ")," a-link-normal ")][2]'
+    multiple: true
+    type: Link
+
+no_product_found_msg:
+    css: null
+    xpath: '//h4'
+    type: Text
+
+next_page_url:
+    css: 'li.a-last a'
+    type: Link

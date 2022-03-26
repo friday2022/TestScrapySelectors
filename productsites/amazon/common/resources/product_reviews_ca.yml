@@ -1,0 +1,26 @@
+reviews:
+    css: '#cm_cr-review_list .celwidget'
+    multiple: true
+    type: Text
+    children:
+        review_owner:
+            css: '.a-profile-content'
+            type: Text
+        review_title:
+            css: '.a-text-bold span'
+            type: Text
+        review_score:
+            css: '.review-rating'
+            type: Text
+        review_country_and_date:
+            css: '.review-date'
+            type: Text
+        review_verified_purchase:
+            css: '.review-format-strip'
+            type: Text
+        review_description:
+            css: '.review-text-content span'
+            type: Text
+        review_number_of_people_found_this_helpful:
+            css: '.cr-vote-text'
+            type: Text

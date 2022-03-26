@@ -1,0 +1,11 @@
+################ REPORT #################################
+start time: 2022-03-21 20:30:10.718592
+end time: 2022-03-21 20:31:26.458390
+Number of products in DB that are supposed to be scraped: 47
+Number of products scraped successfully:47
+Number of products Failed:None
+item scraped count: 47
+elapsed time seconds: 75.739798
+DB error when extracting products from scoring collection: None
+DB_error_updating_scoring_count: None
+DB_error_updating_snapshot_count: None

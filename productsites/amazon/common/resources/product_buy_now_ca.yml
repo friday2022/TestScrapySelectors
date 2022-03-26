@@ -1,0 +1,73 @@
+title:
+    css: 'h1.a-size-large span.a-size-large'
+    type: Text
+price1:
+    css: '#price_inside_buybox'
+    type: Text
+price2:
+    css: 'td.a-span12 span.a-size-medium'
+    type: Text
+price3:
+    css: '#corePrice_feature_div .a-offscreen'
+    type: Text
+brand1:
+    css: '#bylineInfo'
+    type: Text
+customer_reviews1:
+    css: '#averageCustomerReviews'
+    type: Text
+answered_questions_count:
+    css: 'span.celwidget span.a-size-base'
+    type: Text
+shipping_price1:
+    css: '#mir-layout-DELIVERY_BLOCK-slot-DELIVERY_MESSAGE'
+    type: Text
+shipping_price2:
+    css: '#mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE'
+    type: Text
+availability1:
+    css: '#availability .a-color-success'
+    type: Text
+availability2:
+    css: '#outOfStock .a-text-bold'
+    type: Text
+arrives_date1:
+    css: '#mir-layout-DELIVERY_BLOCK-slot-DELIVERY_MESSAGE b'
+    type: Text
+arrives_date2:
+    css: '#mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE .a-text-bold'
+    type: Text
+ships_from_soldby:
+    css: '#merchant-info'
+    type: Text
+soldby1:
+    css: 'a#sellerProfileTriggerId'
+    type: Text
+ships_from1:
+    css: '#merchant-info'
+    type: Text
+product_information_template1:
+    css: '#detailBulletsWrapper_feature_div'
+    type: HTML
+product_information_template2:
+    css: '#prodDetails'
+    type: HTML
+see_buying_options_url:
+    css: 'span.a-declarative span.a-button a.a-button-text'
+    type: Link
+description1:
+    css: 'div.a-section.a-spacing-medium span.a-list-item'
+    xpath: null
+    multiple: true
+    type: Text
+main_image_link1:
+    css: 'div.imgTagWrapper img.a-dynamic-image'
+    type: Image
+images_links_vertical:
+    css: '.a-vertical .a-declarative .a-button-text'
+    multiple: true
+    type: HTML
+images_links_horizontal:
+    css: '.a-horizontal .a-declarative .a-button-text'
+    multiple: true
+    type: HTML

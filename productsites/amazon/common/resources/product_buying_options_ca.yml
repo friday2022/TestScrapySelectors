@@ -1,0 +1,30 @@
+price_symbol1:
+    css: span.a-price-symbol
+    type: Text
+price_whole1:
+    css: span.a-price-whole
+    type: Text
+price_fraction1:
+    css: span.a-price-fraction
+    type: Text
+shipping_price1:
+    css: '#delivery-message'
+    type: Text
+shipping_price2:
+    css: '#mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE'
+    type: Text
+arrives_date1:
+    css: '#delivery-message b'
+    type: Text
+arrives_date2:
+    css: '#mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE .a-text-bold'
+    type: Text
+soldby1:
+    css: 'div.a-fixed-left-grid-col a.a-size-small'
+    type: Text
+ships_from1:
+    css: 'span.a-size-small.aod-ships-from-country span'
+    type: Text
+ships_from2:
+    css: '#aod-offer-shipsFrom'
+    type: Text
